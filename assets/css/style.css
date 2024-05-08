@@ -336,6 +336,10 @@ main {
   border-radius: 20px;
 }
 
+.avatar-pic {
+  padding: 10%;
+}
+
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
@@ -1138,7 +1142,6 @@ main {
   width: 100%;
   height: 100%;
   border: none;
-  filter: grayscale(1) invert(1);
 }
 
 .contact-form { margin-bottom: 10px; }
